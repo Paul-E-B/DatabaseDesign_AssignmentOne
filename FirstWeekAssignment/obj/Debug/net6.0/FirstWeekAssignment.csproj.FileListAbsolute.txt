@@ -1,0 +1,14 @@
+Z:\Microsoft Visual Studio\repos\FirstWeekAssignment\FirstWeekAssignment\FirstWeekAssignment\bin\Debug\net6.0\FirstWeekAssignment.exe
+Z:\Microsoft Visual Studio\repos\FirstWeekAssignment\FirstWeekAssignment\FirstWeekAssignment\bin\Debug\net6.0\FirstWeekAssignment.deps.json
+Z:\Microsoft Visual Studio\repos\FirstWeekAssignment\FirstWeekAssignment\FirstWeekAssignment\bin\Debug\net6.0\FirstWeekAssignment.runtimeconfig.json
+Z:\Microsoft Visual Studio\repos\FirstWeekAssignment\FirstWeekAssignment\FirstWeekAssignment\bin\Debug\net6.0\FirstWeekAssignment.dll
+Z:\Microsoft Visual Studio\repos\FirstWeekAssignment\FirstWeekAssignment\FirstWeekAssignment\bin\Debug\net6.0\FirstWeekAssignment.pdb
+Z:\Microsoft Visual Studio\repos\FirstWeekAssignment\FirstWeekAssignment\FirstWeekAssignment\obj\Debug\net6.0\FirstWeekAssignment.GeneratedMSBuildEditorConfig.editorconfig
+Z:\Microsoft Visual Studio\repos\FirstWeekAssignment\FirstWeekAssignment\FirstWeekAssignment\obj\Debug\net6.0\FirstWeekAssignment.AssemblyInfoInputs.cache
+Z:\Microsoft Visual Studio\repos\FirstWeekAssignment\FirstWeekAssignment\FirstWeekAssignment\obj\Debug\net6.0\FirstWeekAssignment.AssemblyInfo.cs
+Z:\Microsoft Visual Studio\repos\FirstWeekAssignment\FirstWeekAssignment\FirstWeekAssignment\obj\Debug\net6.0\FirstWeekAssignment.csproj.CoreCompileInputs.cache
+Z:\Microsoft Visual Studio\repos\FirstWeekAssignment\FirstWeekAssignment\FirstWeekAssignment\obj\Debug\net6.0\FirstWeekAssignment.dll
+Z:\Microsoft Visual Studio\repos\FirstWeekAssignment\FirstWeekAssignment\FirstWeekAssignment\obj\Debug\net6.0\refint\FirstWeekAssignment.dll
+Z:\Microsoft Visual Studio\repos\FirstWeekAssignment\FirstWeekAssignment\FirstWeekAssignment\obj\Debug\net6.0\FirstWeekAssignment.pdb
+Z:\Microsoft Visual Studio\repos\FirstWeekAssignment\FirstWeekAssignment\FirstWeekAssignment\obj\Debug\net6.0\FirstWeekAssignment.genruntimeconfig.cache
+Z:\Microsoft Visual Studio\repos\FirstWeekAssignment\FirstWeekAssignment\FirstWeekAssignment\obj\Debug\net6.0\ref\FirstWeekAssignment.dll
